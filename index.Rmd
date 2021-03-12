@@ -14,7 +14,7 @@ output:
     toc: yes
 site: bookdown::bookdown_site
 #subtitle: subtitle
-fontsize: 11pt
+#fontsize: 11pt
 number_sections: yes
 citation_package: biblatex
 documentclass: book
