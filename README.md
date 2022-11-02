@@ -1,2 +1,2 @@
-# acoustic_indices_handbook
+# Acoustic Indices Handbook
 Handbook on working with Acoustic Indices for environmental research
