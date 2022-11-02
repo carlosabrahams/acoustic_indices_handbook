@@ -15,7 +15,7 @@ Contents:
 
 [05_ADI.md](https://github.com/carlosabrahams/acoustic_indices_handbook/blob/261312bd07c5a6b7a7a7d3ccecb5c58b0cc1f3dc/05_ADI.md)
 
-[05_AEI.md}(https://github.com/carlosabrahams/acoustic_indices_handbook/blob/261312bd07c5a6b7a7a7d3ccecb5c58b0cc1f3dc/05_AEI.md)
+[05_AEI.md](https://github.com/carlosabrahams/acoustic_indices_handbook/blob/261312bd07c5a6b7a7a7d3ccecb5c58b0cc1f3dc/05_AEI.md)
 
 [05_AE_H.md](https://github.com/carlosabrahams/acoustic_indices_handbook/blob/261312bd07c5a6b7a7a7d3ccecb5c58b0cc1f3dc/05_AE_H.md)
 
