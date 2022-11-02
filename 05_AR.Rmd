@@ -1,0 +1,7 @@
+# Acoustic Richness [AR]
+
+> [@Doohan2019] - The **Acoustic Richness [AR]** index uses both temporal entropy and the median envelope [i.e. the top and bottom of the sound's waveform] to determine the number of different sounds within a recording [@Depraetere2012]. It has been used successfully in areas with low acoustic diversity, such as temperate zones [@Depraetere2012], and when tested across three different habitat types with varying levels of disturbance in Europe, AR was found to be correlated with bird species richness.
+>
+> [@Ross2021] - *Acoustic richness* was related negatively to measured [species] richness [as elsewhere - see Mammides2017; but also see @Depraetere2012].
+>
+> [@Ross2021] Despite its high sensitivity to insect stridulations and to geophony both here and elsewhere [@Depraetere2012], *ARic* performed well in the presence of anthropogenic sound. This may be a product of ARic's calculation method; acoustic richness is a function of both M and temporal entropy [@Depraetere2012], and anthropophony is typically associated with temporally invariable low-frequency patterns in the soundscape [Pieretti2011].
