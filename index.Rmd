@@ -3,12 +3,12 @@ title: "ACOUSTIC INDICES HANDBOOK"
 author: "Carlos Abrahams"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output:
+  pdf_document: default
   html_document:
     fig_caption: yes
     number_sections: yes
     toc: yes
     toc_float: yes
-  pdf_document: default
   bookdown::gitbook: default
   word_document:
     toc: yes
@@ -22,7 +22,7 @@ classoption: twoside
 geometry: margin=2.5cm
 link-citations: yes
 #bibliography: library.bib
-biblio-style: apalike
+biblio-style: apa
 always_allow_html: yes
 ---
 
